@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
 		String przykladowy = "wojtek";
 		String przykladowyOne = "wojtek2";
+		String przykladowyTwo = "wojtek2";
 	}
 }
